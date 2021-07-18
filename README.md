@@ -15,6 +15,8 @@ This is simple (css and more removed) version of "Redux Toolkit tutorial code ex
   - useAppSelector
   - useAppDispatch
 
+---
+
 The original code was written by Redux team.
 
 Visit [Redux Toolkit website](https://redux-toolkit.js.org/)
