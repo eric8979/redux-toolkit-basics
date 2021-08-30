@@ -19,4 +19,4 @@ This is simple (css and more removed) version of "Redux Toolkit tutorial code ex
 
 The original code was written by Redux team.
 
-Visit [Redux Toolkit website](https://redux-toolkit.js.org/)
+Visit [Redux Toolkit website](https://redux-toolkit.js.org/) for the original code.
