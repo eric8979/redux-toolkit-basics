@@ -1,4 +1,4 @@
-# Redux Toolkit boilerplate
+# Redux Toolkit Template
 
 This is simple (css and more removed) version of "Redux Toolkit tutorial code example"
 
